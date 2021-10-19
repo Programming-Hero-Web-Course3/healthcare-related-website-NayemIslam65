@@ -1,0 +1,27 @@
+p,h1,h2 {
+    margin: 0px;
+}
+
+.custom_top {
+    background-color: #F4F4F4;
+    align-items: center;
+
+}
+.cover_img{
+    color: #666666;
+    padding: 20px 30px;
+    align-items: center;
+}
+.custom_menu {
+    margin: 0px !important;
+    background-color: #FC4236 !important;
+    color: white !important;
+    padding: 0px !important;
+}
+
+.custom_nav {
+    padding: 10px 70px;
+}
+.custom_nav a{
+    color: white !important;
+}

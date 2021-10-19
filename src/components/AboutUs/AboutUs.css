@@ -1,0 +1,19 @@
+.about_content h2 {
+    color: #212529;
+    font-weight: bold;
+}
+.accordion_btn{
+    padding: 1rem 1.25rem;
+    background-color: #FC4236 !important;
+    color: white !important; 
+}
+.accordion_bdy{
+    padding: 1rem 1.25rem;
+    background-color: #FC4236 !important;
+    color: white !important; 
+}
+.accordion_item{
+    margin-bottom: 15px;
+    box-shadow: 0 6px 10px rgb(0 0 0 / 7%), 0 1px 18px rgb(0 0 0 / 6%), 0 3px 5px rgb(0 0 0 / 10%);
+    border-radius: 4px;
+}

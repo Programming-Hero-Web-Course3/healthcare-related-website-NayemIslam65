@@ -1,0 +1,5 @@
+.custom_notice_card {
+    border: 1px solid #FC4236 ;
+    box-shadow: 0 6px 10px rgb(0 0 0 / 7%), 0 1px 18px rgb(0 0 0 / 6%), 0 3px 5px rgb(0 0 0 / 10%);
+    border-radius: 4px;
+}
