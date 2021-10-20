@@ -2,6 +2,10 @@
     color: #212529;
     font-weight: bold;
 }
+.about_content p {
+    text-align: justify;
+    line-height: 30px;
+}
 .accordion_btn{
     padding: 1rem 1.25rem;
     background-color: #FC4236 !important;

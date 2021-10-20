@@ -10,7 +10,12 @@ body {
 
 .custom_navbar{
    justify-content: center; 
-  
+}
+
+.back_btn {
+    background-color: #FC4236;
+    border: none;
+    color: white;
 }
 .custom_nav{
     padding: 10px 70px;
